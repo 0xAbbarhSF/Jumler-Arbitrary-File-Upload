@@ -1,5 +1,5 @@
 # Jumper-Arbitrary-File-Upload
-Tool for Jumper arbitrary file Upload vulnerability - Automated 
+Tool for Jumler arbitrary file Upload vulnerability - Automated 
 
 <img src="https://raw.githubusercontent.com/0xAbbarhSF/Jumper-Arbitrary-File-Upload/main/images%20(4).png">
 ## Usage
